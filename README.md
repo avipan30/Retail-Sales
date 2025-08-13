@@ -69,12 +69,6 @@ To design and develop a **Retail Sales & Cost Analysis dashboard** enabling busi
 
 ---
 
-## 📷 Dashboard Screenshots
-### Sales Dashboard
-![Sales Dashboard](fd096cb9-71b9-49b3-96fd-4552dc943125.png)
-
-### Cost & Target Dashboard
-![Cost & Target Dashboard](ed8a351a-a26c-4c44-bb81-d22dcaddb203.png)
 
 ---
 
@@ -85,13 +79,3 @@ To design and develop a **Retail Sales & Cost Analysis dashboard** enabling busi
 
 ---
 
-## 📄 Resume-Friendly Project Description
-**Retail Sales & Cost Analysis – Power BI | Power Query | DAX**  
-- Designed and developed an interactive Power BI dashboard analyzing retail sales and operational costs.  
-- Implemented advanced DAX measures for KPI tracking, target variance, and department-level sales insights.  
-- Built an optimized star schema model, improving report responsiveness and usability.  
-- Enabled decision-making by visualizing store performance, wage efficiency, and cost-to-sales ratios across regions.  
-
----
-
-## 📂 Repository Structure
